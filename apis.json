@@ -1,0 +1,68 @@
+{
+    "name": "RiskIQ",
+    "description": "Whether you are investigating threats, monitoring your attack surface, or mitigating brand abuse - arm yourself with digital security intelligence from RiskIQ.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20057-riskiq.jpg",
+    "tags": [
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/riskiq\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RiskIQ",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20057-riskiq.jpg",
+            "humanURL": "https:\/\/www.riskiq.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/riskiq-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.riskiq.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.riskiq.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/riskiq"
+        },
+        {
+            "type": "Email",
+            "url": "sales@riskiq.net"
+        },
+        {
+            "type": "Email",
+            "url": "support@riskiq.net"
+        },
+        {
+            "type": "Email",
+            "url": "info@riskiq.net"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/RiskIQ"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/riskiq"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.riskiq.com"
+        }
+    ]
+}
