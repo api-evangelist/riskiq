@@ -38,7 +38,7 @@ description: >-
   (api.riskiq.net, community.riskiq.com) no longer accept connections. This
   profile is retained as a historical/acquired-company record with no live,
   independent API surface to enrich.
-url: https://raw.githubusercontent.com/api-evangelist/riskiq/refs/heads/main/apis.yml
+url: https://www.microsoft.com/security/business/siem-and-xdr/microsoft-defender-threat-intelligence
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
